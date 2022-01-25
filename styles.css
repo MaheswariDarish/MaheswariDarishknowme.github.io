@@ -1,0 +1,72 @@
+body{
+     background-color:lightgrey;
+}
+.container1{
+     margin:auto;
+     width: 80%;
+}
+
+.b1{
+     background-color:whitesmoke;
+     color:navy;
+
+     border-right: 10px saddlebrown;
+     border-left: 10px saddlebrown;
+     border-top: 5px saddlebrown;
+     border-bottom: 5px saddlebrown;
+     border: 5px saddlebrown;
+     border-width: 3px;
+}
+.container2{
+     margin:auto;
+     width: 80%;
+}
+
+.b2{
+     background-color:whitesmoke;
+     color:navy;
+
+     border-right: 10px saddlebrown;
+     border-left: 10px saddlebrown;
+     border-top: 10px saddlebrown;
+     border-bottom: 10px saddlebrown;
+     border: 10px saddlebrown;
+     border-width: 3px;
+     
+}
+.container3{
+     margin:auto;
+     width: 80%;
+}
+
+.b3{
+     background-color:whitesmoke;
+     color:navy;
+
+     border-right: 10px saddlebrown;
+     border-left: 10px saddlebrown;
+     border-top: 10px saddlebrown;
+     border-bottom: 10px saddlebrown;
+     border: 10px saddlebrown;
+     border-width: 3px;
+     transition: width 2s,height 4s;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.fa-instagram{
+background: #125688;
+  color: white;
+}
